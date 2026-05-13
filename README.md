@@ -118,6 +118,4 @@ vercel --prod   # production deploy
 - **City not found** → try `City, Country` or a spelling OpenWeather likes.
 - **401 on login** → wrong password or email not registered; email is stored lowercase.
 
----
-
-Built with lots of coffee and Stack Overflow. Good luck with your demo / submission.
+-
